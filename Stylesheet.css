@@ -1,0 +1,18 @@
+.main {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    font-size: x-large;
+    background-color: #0274b1;
+    border-radius: 20px;
+}
+@font-face {
+    font-family: 'OptiEagle'; /*a name to be used later*/
+    src: url('OPTIEagle-Bold.otf'); /*URL to font*/
+}
+body{
+    background-color: #0084CA;
+    color: aliceblue;
+    font-family: 'OptiEagle';
+}
