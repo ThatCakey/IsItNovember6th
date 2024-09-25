@@ -43,3 +43,38 @@ body{
 h2{
     font-family: 'OptiEagle';
 }
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+a:link {
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+  
+  a:visited {
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+  
+  a:hover {
+    text-decoration: none;
+    color: rgb(197, 197, 197);
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+  
+  a:active {
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+  iframe{
+    max-height: 16vw;
+    max-width: 28vw;
+  }
